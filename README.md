@@ -36,7 +36,7 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 <a href= https://drive.google.com/file/d/15LurBP92I3FhUTpsvoa42t_VDV9S0FAS/view> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?short_path=dd0e485> </a>
 
 <h3> Cursos Completados (Sin certificado oficiales) </h3>
-<a <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg> </a>
+<a href= https://drive.google.com/file/d/1gfhsxxipmmUoHlnambLqbj0tO9fsfQTc/view?usp=sharing> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg> </a>
 
 
 <br>
