@@ -45,6 +45,6 @@
 
 
 -----
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+Creditos: [Miguel Galeano](https://github.com/DarkXz7)
 
-Last Edited on: 04/09/2021
+Ultima vez editado: 9/06/2024
