@@ -10,8 +10,8 @@
 
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
-<div size='20px'> Hola! Bienvenido a mi Perfil Personal de github, Soy Miguel
-Alguien que desde niño fue un gran apasionado por el mundo de la tecnologia
+<div size='20px'> Hola! Bienvenido a mi Perfil Personal de github, Soy Miguel <br>
+Alguien que desde niño fue un gran apasionado por el mundo de la tecnologia <br>
 Aunque hoy en dia se dedica a aprender sobre programacion :smile: 
 </div>
 
