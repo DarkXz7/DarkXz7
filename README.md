@@ -36,7 +36,7 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 <a href= https://drive.google.com/file/d/15LurBP92I3FhUTpsvoa42t_VDV9S0FAS/view> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?short_path=dd0e485 > </a>
 ----
 <h3> Cursos Completados (Sin certificados oficiales)  </h3> 
-<a href= https://drive.google.com/file/d/1gfhsxxipmmUoHlnambLqbj0tO9fsfQTc/view?usp=sharing> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg > </a>
+<a href= https://drive.google.com/file/d/1gfhsxxipmmUoHlnambLqbj0tO9fsfQTc/view?usp=sharing> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg > 
 
 
 <br>
@@ -52,7 +52,7 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 
 <br>
 
-[![DarkXz7's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DarkXz7&theme=tokyonight)](https://git.io/praveenscience)
+<a[![DarkXz7's GitHub Activity Graph] </a>
 
 
 | ![DarkXz7's github stats](https://github-readme-stats.vercel.app/api?username=DarkXz7&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkXz7&theme=tokyonight) |
