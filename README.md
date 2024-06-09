@@ -34,7 +34,7 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 
 <h2> Cursos Completados  </h2>
 <a href= https://drive.google.com/file/d/15LurBP92I3FhUTpsvoa42t_VDV9S0FAS/view> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?short_path=dd0e485 > </a>
-<br> ---
+
 <h3> Cursos Completados (Sin certificados oficiales)  </h3> 
 <a href= https://drive.google.com/file/d/1gfhsxxipmmUoHlnambLqbj0tO9fsfQTc/view?usp=sharing> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg > </a>
 
@@ -51,9 +51,15 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 
 
 <br>
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
------
 Creditos: [Miguel Galeano](https://github.com/DarkXz7)
 
 Ultima vez editado: 9/06/2024
