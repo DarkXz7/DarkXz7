@@ -52,7 +52,7 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 
 <br>
 
-<a[![DarkXz7's GitHub Activity Graph] </a>
+
 
 
 | ![DarkXz7's github stats](https://github-readme-stats.vercel.app/api?username=DarkXz7&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkXz7&theme=tokyonight) |
