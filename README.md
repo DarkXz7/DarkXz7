@@ -34,7 +34,7 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 
 <h2> Cursos Completados  </h2>
 <a href= https://drive.google.com/file/d/15LurBP92I3FhUTpsvoa42t_VDV9S0FAS/view> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?short_path=dd0e485 > </a>
-----
+
 <h3> Cursos Completados (Sin certificados oficiales)  </h3> 
 <a href= https://drive.google.com/file/d/1gfhsxxipmmUoHlnambLqbj0tO9fsfQTc/view?usp=sharing> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg > 
 
@@ -60,7 +60,7 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkXz7&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DarkXz7show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 
 ----
