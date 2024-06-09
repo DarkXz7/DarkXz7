@@ -55,7 +55,7 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 
 <h2> DarkXz7's GitHub Activity Graph </h2>
 
-(https://activity-graph.herokuapp.com/graph?username=DarkXz7&theme=tokyonight)](https://git.io/praveenscience)
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=DarkXz7show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkXz7&theme=tokyonight) |
 | --- | --- |
