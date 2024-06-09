@@ -26,7 +26,7 @@
 <a href=  ><img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?short_path=dd0e485> </a>
 <a href=  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg?short_path=991e506)] (https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)> </a>
 <a href=  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a   > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href=   > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href=  > <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg> </a>
   
 <br>
