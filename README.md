@@ -25,7 +25,7 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 - 🈷️ Nivel de Ingles actual: A2
 - ⚡ Fun fact: Me gustan los gatos.
 
-<h2> Mi CV <img width ='32px' src = https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489>  </h2>
+<h2> Mi CV <img width ='32px' src = <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>>  </h2>
 <a href=  https://tattered-asterisk-7b0.notion.site/Hoja-de-vida-CV-ee465c387520447eb43b52fbd52a02d2?pvs=4>  <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg> </a> 
 
     
