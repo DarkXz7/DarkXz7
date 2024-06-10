@@ -40,7 +40,7 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 <a href= https://drive.google.com/file/d/1gfhsxxipmmUoHlnambLqbj0tO9fsfQTc/view?usp=sharing> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg > </a>
 
 <h4> Cursos en Progreso (Notion) </h4>
-<a href= https://www.notion.so/ee143e4e228d4350bec49748707c0482?v=b3c083525c464a97835686b6807e39e2&pvs=4>  <img width ='32px' src = https://drive.google.com/file/d/1Z8iN1kXcDjBv44ZhZ38oBCZUT3dXnUld/view?usp=sharing> </a>
+<a href= https://www.notion.so/ee143e4e228d4350bec49748707c0482?v=b3c083525c464a97835686b6807e39e2&pvs=4>  <img width src ='32px' src = https://drive.google.com/file/d/1Z8iN1kXcDjBv44ZhZ38oBCZUT3dXnUld/view?usp=sharing> </a>
 
 <br>
 <br>
