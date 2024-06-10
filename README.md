@@ -25,6 +25,10 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 - 🈷️ Nivel de Ingles actual: A2
 - ⚡ Fun fact: Me gustan los gatos.
 
+<h2> Mi CV  </h2>
+<a href=  https://tattered-asterisk-7b0.notion.site/Hoja-de-vida-CV-ee465c387520447eb43b52fbd52a02d2?pvs=4>  <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg> </a>
+
+    
 <h2> Lenguajes Conocidos  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href=  ><img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?short_path=dd0e485> </a>
 <a href=  ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
