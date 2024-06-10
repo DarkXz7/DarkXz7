@@ -25,8 +25,8 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 - 🈷️ Nivel de Ingles actual: A2
 - ⚡ Fun fact: Me gustan los gatos.
 
-<h2> Mi CV  </h2>
-<a href=  https://tattered-asterisk-7b0.notion.site/Hoja-de-vida-CV-ee465c387520447eb43b52fbd52a02d2?pvs=4>  <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg> <img width ='32px' src = https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489> </a>
+<h2> Mi CV <img width ='32px' src = https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489>  </h2>
+<a href=  https://tattered-asterisk-7b0.notion.site/Hoja-de-vida-CV-ee465c387520447eb43b52fbd52a02d2?pvs=4>  <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg> </a> 
 
     
 <h2> Lenguajes Conocidos  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
