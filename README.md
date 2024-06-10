@@ -30,6 +30,9 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 <a href=  ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href=  ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href=  ><img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg> </a>
+
+
+<h2> Herramientas Conocidas </h2>
 <a href=  ><img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg> </a>
 
 <h2> Cursos Completados  </h2>
