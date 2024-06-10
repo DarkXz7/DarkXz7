@@ -39,7 +39,7 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 <a href= https://drive.google.com/file/d/1CPjlBi0eMim1FI-YdqyTQh2q39cyYvBZ/view?usp=sharing> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?short_path=dd0e485 > </a>
 <a href= https://drive.google.com/file/d/1gfhsxxipmmUoHlnambLqbj0tO9fsfQTc/view?usp=sharing> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg > </a>
 
-<h2> Cursos en Progreso (Notion) </h2>
+<h2> Cursos en Progreso (Mi Tablero de Notion) </h2>
 <a href= https://www.notion.so/ee143e4e228d4350bec49748707c0482?v=b3c083525c464a97835686b6807e39e2&pvs=4>  <img width ='32px' src = https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg> </a>
 
 <br>
