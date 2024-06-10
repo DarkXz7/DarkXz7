@@ -8,7 +8,7 @@
 
 
 
-[![Github](https://img.shields.io/github/followers/DarkXz7?label=Follow&style=social)](https://github.com/Aditya664)
+[![Github](https://img.shields.io/github/followers/DarkXz7?label=Follow&style=social)](https://github.com/DarkXz7)
 
 <div size='20px'> Hola! Bienvenido a mi Perfil Personal de Github, Soy Miguel <br>
 Alguien que desde niño fue un gran apasionado por el mundo de la tecnologia <br>
