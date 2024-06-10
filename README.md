@@ -42,10 +42,10 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 <h2> Cursos Completados  <img width = '32px' src= https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkanR6MjVnYzR2OTl0anM3OWV3M2FqejMxb3ltaGthcXRtb3gyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp> </h2>
 <a href= https://drive.google.com/file/d/15LurBP92I3FhUTpsvoa42t_VDV9S0FAS/view> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?short_path=dd0e485 > </a>
 
-<h2> Cursos Completados (Sin certificados oficiales) </h2>
+<h2> Cursos Completados (Sin certificados oficiales) <img width = '32px' src= https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx6OGdiaXZ6N3UyYW1scGhvMDgxZWx5ejA3ejNtYWliNnFsZXBkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.webp> </h2>
 <a href= https://drive.google.com/file/d/1gfhsxxipmmUoHlnambLqbj0tO9fsfQTc/view?usp=sharing> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg > </a>
 
-<h2> Cursos en Progreso (Mi Tablero de Notion) </h2>
+<h2> Cursos en Progreso (Mi Tablero de Notion) <img width = '32px' src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRwdnFxZ3hlMm90czFtMDNyN2I2MnlrbmUzYnExaW1oNWx5cHZ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kEuHSQAXXiGQ/giphy.webp ></h2>
 <a href= https://www.notion.so/ee143e4e228d4350bec49748707c0482?v=b3c083525c464a97835686b6807e39e2&pvs=25>  <img width ='32px' src = https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg> </a>
 
 <br>
