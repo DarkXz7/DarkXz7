@@ -39,7 +39,7 @@ Aunque hoy en dia se dedica a aprender sobre programacion :smile:
 <h2> Herramientas Conocidas <img width = '32px' src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanltNGw5aDFzZDR2bDY3NmMxaWE2Y3l1b3ZpODMyNmplbjF5dDN1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gEKz4VLX7fQlsl8SFE/giphy.webp> </h2>
 <a href=  ><img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg> </a>
 
-<h2> Cursos Completados  </h2>
+<h2> Cursos Completados  <img width = '32px' src= https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkanR6MjVnYzR2OTl0anM3OWV3M2FqejMxb3ltaGthcXRtb3gyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp> </h2>
 <a href= https://drive.google.com/file/d/15LurBP92I3FhUTpsvoa42t_VDV9S0FAS/view> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?short_path=dd0e485 > </a>
 
 <h2> Cursos Completados (Sin certificados oficiales) </h2>
