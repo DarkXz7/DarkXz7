@@ -91,3 +91,5 @@
 </div>
 
 ###
+
+![Snake animation](https://github.com/DarkXz7/DarkXz7/blob/output/github-contribution-grid-snake.svg)
