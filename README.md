@@ -10,12 +10,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/169491410?s=400&u=da34d9268df1075f7a3ab56337164cad5f5254ce&v=4"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkXz7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
