@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkXz7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h2 align="center">Lenguajes Conocidos (en Progreso)</h2>
@@ -100,9 +94,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31giykwqwckt53syj2iwxun6ioaq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31giykwqwckt53syj2iwxun6ioaq&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkXz7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
