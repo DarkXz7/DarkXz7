@@ -92,13 +92,17 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DarkXz7/DarkXz7/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkXz7&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="148" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkXz7&radius=16&theme=monokai&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkXz7&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="148" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkXz7&radius=16&theme=monokai&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <a href="https://open.spotify.com/user/Alexamiguel">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Alexamiguel&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
