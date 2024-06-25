@@ -1,80 +1,110 @@
-<p align="center">
-    
-</p>
+<br clear="both">
 
-<h1> Hola mundo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<h1 align="center">Hi 👋! My name is Miguel</h1>
 
+###
 
+<br clear="both">
 
-[![Github](https://img.shields.io/github/followers/DarkXz7?label=Follow&style=social)](https://github.com/DarkXz7)
+<h4 align="center">Hola 🇪🇸<br>Bienvenido a mi Perfil Personal de GitHub. Mi nombre es Miguel, desde temprana edad he sido un entusiasta del mundo de la tecnología. En la actualidad, me encuentro inmerso en el aprendizaje y desarrollo en el campo de la programación.☀️</h4>
 
-<div size='20px'> Hola! Bienvenido a mi Perfil Personal de Github, Soy Miguel <br>
-Alguien que desde niño fue un gran apasionado por el mundo de la tecnologia <br>
-Aunque hoy en dia se dedica a aprender sobre programacion :smile: 
+###
+
+<br clear="both">
+
+<img align="left" height="200" src="https://avatars.githubusercontent.com/u/169491410?s=400&u=da34d9268df1075f7a3ab56337164cad5f5254ce&v=4"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkXz7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<h2> Sobre Mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+###
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<br clear="both">
 
-- 🔭 Estudiante de Desarrollo de Software
-  
-- 🌱 Aprendiendo Python y PHP
-- 🈷️ Nivel de Ingles actual: A2
-- ⚡ Fun fact: Me gustan los gatos.
+<h2 align="center">Lenguajes Conocidos (en Progreso)</h2>
 
-<h2> Mi CV <img width ='32px' src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRpbWQydThoczEycWZnYWowcWtmNG1xeXViYmpiN2NwMjNwamE0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp"> </h2>
-<a href=  https://tattered-asterisk-7b0.notion.site/Hoja-de-vida-CV-ee465c387520447eb43b52fbd52a02d2?pvs=4>  <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg> </a> 
+###
 
-    
-<h2> Lenguajes Conocidos  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href=  ><img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?short_path=dd0e485> </a>
-<a href=  ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href=  ><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href=  ><img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg> </a>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+</div>
 
+###
 
-<h2> Herramientas Conocidas <img width = '32px' src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanltNGw5aDFzZDR2bDY3NmMxaWE2Y3l1b3ZpODMyNmplbjF5dDN1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gEKz4VLX7fQlsl8SFE/giphy.webp> </h2>
-<a href=  ><img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg> </a>
+<h2 align="center">Herramientas conocidas</h2>
 
-<h2> Cursos Completados  <img width = '32px' src= https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFkanR6MjVnYzR2OTl0anM3OWV3M2FqejMxb3ltaGthcXRtb3gyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp> </h2>
-<a href= https://drive.google.com/file/d/15LurBP92I3FhUTpsvoa42t_VDV9S0FAS/view> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?short_path=dd0e485 > </a>
+###
 
-<h2> Cursos Completados (Sin certificados oficiales) <img width = '32px' src= https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx6OGdiaXZ6N3UyYW1scGhvMDgxZWx5ejA3ejNtYWliNnFsZXBkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.webp> </h2>
-<a href= https://drive.google.com/file/d/1gfhsxxipmmUoHlnambLqbj0tO9fsfQTc/view?usp=sharing> <img width ='32px' src =https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg > </a>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="45" alt="premierepro logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="45" alt="slack logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="trello logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="windows8 logo"  />
+  <img width="19" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+</div>
 
-<h2> Cursos en Progreso (Mi Tablero de Notion) <img width = '32px' src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRwdnFxZ3hlMm90czFtMDNyN2I2MnlrbmUzYnExaW1oNWx5cHZ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11kEuHSQAXXiGQ/giphy.webp ></h2>
-<a href= https://www.notion.so/ee143e4e228d4350bec49748707c0482?v=b3c083525c464a97835686b6807e39e2&pvs=25>  <img width ='32px' src = https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg> </a>
+###
 
-<br>
-<br>
-  <br>
-  
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<h2 align="center">Contact Me</h2>
 
+###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-galeano-986a53303/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="45" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmXHpptXwvTZrXkskBbvPZjnVBddJNqjtClMngjmrWGNXjGjNNFLgrKNDPlvrkgnKLLVKn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="64" height="45" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100075383344020&mibextid=ZbWKwL" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="64" height="45" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/miguel_71g?igsh=cTl0aThwOTJ6ZTB0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="64" height="45" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/+573234611490" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="64" height="45" alt="whatsapp logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="64" height="45" alt="paypal logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="64" height="45" alt="discord logo"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DarkXz7.DarkXz7&left_color=grey&right_color=indigo&left_text=Visitantes"  />
+</div>
 
-<br>
+###
 
+<img src="https://raw.githubusercontent.com/DarkXz7/DarkXz7/output/snake.svg" alt="Snake animation" />
 
-<h2> DarkXz7's GitHub Activity Graph </h2>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkXz7&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="148" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkXz7&radius=16&theme=monokai&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 
-
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=DarkXz7&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkXz7&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkXz7&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DarkXz7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-
-
-----
-
-Creditos: [Miguel Galeano](https://github.com/DarkXz7)
-
-Ultima vez editado: 9/06/2024
+###
