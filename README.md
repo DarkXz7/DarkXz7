@@ -79,6 +79,7 @@
 </div>
 
 ###
+<h2 align="center">Contact Me</h2>
 <div align="center">
   <a href="https://tattered-asterisk-7b0.notion.site/Hoja-de-vida-CV-ee465c387520447eb43b52fbd52a02d2?pvs=4https://tattered-asterisk-7b0.notion.site/Hoja-de-vida-CV-ee465c387520447eb43b52fbd52a02d2?pvs=4" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
