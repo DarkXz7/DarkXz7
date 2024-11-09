@@ -28,7 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"/>
-  <img src="https://skillicons.dev/icons?i=django"  height="45" alt="django logo"/>
+  <div style="margin-left:50px">
+    <img src="https://skillicons.dev/icons?i=django"  height="45" alt="django logo"/>
+  </div>
 </div>
 
 ###
