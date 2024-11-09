@@ -31,8 +31,9 @@
   
   
   <img src="https://skillicons.dev/icons?i=mysql"/>
-  <img width="19" />
+  <img width="19"/>
   <img src="https://skillicons.dev/icons?i=mongodb"/>
+  <img width="19"/>
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"/>
   <img src="https://skillicons.dev/icons?i=django"  height="45" alt="django logo"/>
   <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="django logo"/>
