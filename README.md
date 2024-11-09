@@ -51,20 +51,19 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="45" alt="premierepro logo"  />
-  <img width="19" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
-  <img width="19" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="45" alt="slack logo"  />
-  <img width="19" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="trello logo"  />
-  <img width="19" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
-  <img width="19" />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="windows8 logo"  />
-  <img width="19" />
-  <div style="margin-left:50px">
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" />
-  </div>
+  
 </div>
 
 ###
