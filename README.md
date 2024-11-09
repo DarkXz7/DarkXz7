@@ -42,11 +42,11 @@
   
   <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="django logo"/>
   <img width="11"/>
-  
-  <img src="https://skillicons.dev/icons?i=androidstudio"/>
-  <img width="11"/>
-  
+
   <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <img width="11"/>
+
+  <img src="https://skillicons.dev/icons?i=androidstudio"/>
 </div>
 
 ###
