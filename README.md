@@ -35,9 +35,9 @@
  
   
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"/>
- <div style="margin-right:-5px;">
+ 
   <img src="https://skillicons.dev/icons?i=django"  height="45" alt="django logo"/>
-</div>
+
 </div>
 
 ###
