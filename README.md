@@ -30,12 +30,10 @@
   <img width="19" />
   
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql"/>
   <img width="19" />
- 
-  
+  <img src="https://skillicons.dev/icons?i=mongodb"/>
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"/>
- 
   <img src="https://skillicons.dev/icons?i=django"  height="45" alt="django logo"/>
   <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="django logo"/>
 </div>
