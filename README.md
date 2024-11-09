@@ -16,7 +16,7 @@
 
 ###
 
-<div align="center" style="display: flex;">
+<div align="center">
   
   <img src="https://skillicons.dev/icons?i=html"  />
   <img width="11" />
@@ -41,6 +41,12 @@
   <img width="11"/>
   
   <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="django logo"/>
+  <img width="11"/>
+  
+  <img src="https://skillicons.dev/icons?i=androidstudio"/>
+  <img width="11"/>
+  
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
 </div>
 
 ###
@@ -63,6 +69,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45" alt="windows8 logo"  />
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=notion" />
   
 </div>
 
