@@ -19,23 +19,27 @@
 <div align="center" style="display: flex;">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="19" />
-  
+  <img width="15" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="19" />
-  
+  <img width="15" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="19" />
+  <img width="15" />
   
   
   <img src="https://skillicons.dev/icons?i=mysql"/>
-  <img width="19"/>
+  <img width="15"/>
+  
   <img src="https://skillicons.dev/icons?i=mongodb"/>
-  <img width="19"/>
+  <img width="15"/>
+  
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"/>
+  <img width="15"/>
+  
   <img src="https://skillicons.dev/icons?i=django"  height="45" alt="django logo"/>
+  <img width="15"/>
+  
   <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="django logo"/>
 </div>
 
