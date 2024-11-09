@@ -16,7 +16,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="gap:10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"/>
-  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"/>
+  <img src="https://skillicons.dev/icons?i=django"  height="45" alt="django logo"/>
 </div>
 
 ###
