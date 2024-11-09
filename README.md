@@ -25,20 +25,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
   <img width="19" />
   
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-    <img width="19" />
-  </div>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
-    <img width="19" />
-  </div>
-  <div>
-    <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"/>
-  </div>
-  <div>
-    <img src="https://skillicons.dev/icons?i=django"  height="45" alt="django logo"/>
-  </div>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="19" />
+  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql logo"  />
+  <img width="19" />
+ 
+  
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"/>
+  
+  <img src="https://skillicons.dev/icons?i=django"  height="45" alt="django logo"/>
+  
 </div>
 
 ###
