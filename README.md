@@ -39,7 +39,8 @@
   
   <img src="https://skillicons.dev/icons?i=nodejs"/>
   <img width="11"/>
-  <img src="https://skillicons.dev/icons?i=pandas"/>
+  
+  <img src="https://skillicons.dev/icons?i=postman"/>
   <img width="11"/>
 
   
