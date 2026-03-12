@@ -30,6 +30,9 @@
   
   <img src="https://skillicons.dev/icons?i=mysql"/>
   <img width="11"/>
+
+  <img src="https://skillicons.dev/icons?i=sqlite"/>
+  <img width="11"/>
   
   <img src="https://skillicons.dev/icons?i=mongodb"/>
   <img width="11"/>
