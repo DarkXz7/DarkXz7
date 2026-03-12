@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h2 align="center">Herramientas Conocidas (en Progreso)</h2>
+<h2 align="center">Lenguajes Conocidos (en Progreso)</h2>
 
 ###
 
