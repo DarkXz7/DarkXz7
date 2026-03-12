@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h2 align="center">Lenguajes Conocidos (en Progreso)</h2>
+<h2 align="center">Herramientas Conocidas (en Progreso)</h2>
 
 ###
 
@@ -38,6 +38,8 @@
   <img width="11"/>
   
   <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <img width="11"/>
+  <img src="https://skillicons.dev/icons?i=pandas"/>
   <img width="11"/>
 
   
